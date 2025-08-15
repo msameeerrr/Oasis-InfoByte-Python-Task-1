@@ -1,4 +1,5 @@
 # Oasis-InfoByte-Python-Task-1
+
 # BMI Calculator 🧮
 
 A **Python-based GUI BMI Calculator** developed using **Tkinter** and **Matplotlib** as part of my **Remote Internship Task** in Python Programming.  
@@ -14,24 +15,22 @@ It also allows you to **view BMI history** and **visualize trends** in a plotted
 - **History tracking** of all BMI calculations.
 - **Trend visualization** using Matplotlib.
 
----
-
 ## 🛠 Technologies Used
 - **Python 3.x**
 - **Tkinter** – GUI development
 - **Matplotlib** – BMI trend plotting
 
----
-
 ## 📷 Screenshots
+<img width="373" height="286" alt="image" src="https://github.com/user-attachments/assets/77e00a83-2226-40ef-9b64-f60bf44c69ff" />
+<img width="371" height="284" alt="image" src="https://github.com/user-attachments/assets/a8e491f1-4540-4b44-94be-d8115afdd4cd" />
+<img width="371" height="285" alt="image" src="https://github.com/user-attachments/assets/eec44bc0-a728-414e-8e29-1a498c29e993" />
+<img width="284" height="155" alt="image" src="https://github.com/user-attachments/assets/ec25445c-7dc3-4d37-8bb9-28d22c08dc08" />
+<img width="473" height="413" alt="image" src="https://github.com/user-attachments/assets/0c210c00-cc45-4c4e-a632-9f2edef8577a" />
 
-
----
 
 ## 📥 Installation & Usage
 
 1. **Clone this repository**  
-   ```bash
    git clone https://github.com/your-username/bmi-calculator.git
    cd bmi-calculator
    
