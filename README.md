@@ -2,10 +2,7 @@
 
 # BMI Calculator 🧮
 
-A **Python-based GUI BMI Calculator** developed using **Tkinter** and **Matplotlib** as part of my **Remote Internship Task** in Python Programming.  
-This project calculates the **Body Mass Index (BMI)**, classifies the results into categories (Underweight, Normal, Overweight, Obese), and provides a healthy weight range recommendation.  
-It also allows you to **view BMI history** and **visualize trends** in a plotted graph.
-
+A **Python-based GUI BMI Calculator** developed using **Tkinter** and **Matplotlib** as part of my **Remote Internship Task** in Python Programming. This project calculates the **Body Mass Index (BMI)**, classifies the results into categories (Underweight, Normal, Overweight, Obese), and provides a healthy weight range recommendation. It also allows you to **view BMI history** and **visualize trends** in a plotted graph.
 
 ## 🚀 Features
 - **User-friendly GUI** built with Tkinter.
@@ -31,7 +28,7 @@ It also allows you to **view BMI history** and **visualize trends** in a plotted
 ## 📥 Installation & Usage
 
 1. **Clone this repository**  
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/msameeerrr/bmi-calculator.git
    cd bmi-calculator
    
 2. **Install dependencies (if not already installed)**
