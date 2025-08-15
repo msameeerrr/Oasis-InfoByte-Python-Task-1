@@ -28,8 +28,7 @@ A **Python-based GUI BMI Calculator** developed using **Tkinter** and **Matplotl
 ## 📥 Installation & Usage
 
 1. **Clone this repository**  
-   git clone https://github.com/msameeerrr/bmi-calculator.git
-   cd bmi-calculator
+   https://github.com/msameeerrr/Oasis-InfoByte-Python-Task-1.git
    
 2. **Install dependencies (if not already installed)**
    pip install matplotlib
