@@ -34,7 +34,7 @@ A **Python-based GUI BMI Calculator** developed using **Tkinter** and **Matplotl
    pip install matplotlib
    
 3. **Run the application**
-   python bmi_calculator.py
+   python Bmi_Calculator.py
 
 📊 BMI Categories
 
